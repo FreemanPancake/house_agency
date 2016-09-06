@@ -1,0 +1,15 @@
+body {
+	background-image: url(./images/background_01.jpeg);background-size: 100%;
+}
+h1 {
+	text-align:center;color: white;font-size: xx-large;font-style: bold
+}
+.s1 {
+	font-size:large;color: white;text-indent:30pt;font-family: Times;line-height: 20pt;letter-spacing: 1pt;
+}
+.s2 {
+	text-align:center;color: white;line-height: 30pt;font-family: Tahoma;
+}
+.s3 {
+	text-align:center;color: yellow;text-decoration: none;
+}
